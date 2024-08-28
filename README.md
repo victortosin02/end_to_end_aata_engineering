@@ -26,7 +26,7 @@ The project is designed with the following components:
 - **Kafka Connect**: For connecting to elasticsearch
 - **Elasticsearch**: For indexing and querying
 
-## What You'll Learn
+## What I Seek To Achieve
 
 - Setting up data pipeline with TCP/IP 
 - Real-time data streaming with Apache Kafka
